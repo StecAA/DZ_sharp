@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApp1",
+    "\\ConsoleApp1\\ConsoleApp1",
+    "\\DZ_SHARP_2",
+    "\\DZ_SHARP_2\\bin",
+    "\\DZ_SHARP_2\\obj",
+    "\\DZ_SHARP_2\\Properties"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\DZ_SHARP_2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
