@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\bin\Debug\DZ_4_ferst.exe.config
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\bin\Debug\DZ_4_ferst.exe
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\bin\Debug\DZ_4_ferst.pdb
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\obj\Debug\DZ_4_ferst.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\obj\Debug\DZ_4_ferst.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\obj\Debug\DZ_4_ferst.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\obj\Debug\DZ_4_ferst.exe
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_4_ferst\DZ_4_ferst\obj\Debug\DZ_4_ferst.pdb
