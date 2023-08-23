@@ -56,6 +56,7 @@ namespace ConsoleApp1
             Console.WriteLine("данные {0} {1} {2} {3}", x1,x2,y1,y2);
             Console.WriteLine("результат {0:F2}", r);
             Console.ReadLine();
+            //test
         }
     }
 }
