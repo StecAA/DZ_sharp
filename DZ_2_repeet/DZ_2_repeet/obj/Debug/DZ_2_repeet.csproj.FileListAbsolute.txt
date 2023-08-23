@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\bin\Debug\DZ_2_repeet.exe.config
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\bin\Debug\DZ_2_repeet.exe
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\bin\Debug\DZ_2_repeet.pdb
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\obj\Debug\DZ_2_repeet.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\obj\Debug\DZ_2_repeet.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\obj\Debug\DZ_2_repeet.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\obj\Debug\DZ_2_repeet.exe
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_2_repeet\DZ_2_repeet\obj\Debug\DZ_2_repeet.pdb
