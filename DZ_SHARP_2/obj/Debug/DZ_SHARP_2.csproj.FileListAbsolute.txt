@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\bin\Debug\DZ_SHARP_2.exe.config
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\bin\Debug\DZ_SHARP_2.exe
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\bin\Debug\DZ_SHARP_2.pdb
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\obj\Debug\DZ_SHARP_2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\obj\Debug\DZ_SHARP_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\obj\Debug\DZ_SHARP_2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\obj\Debug\DZ_SHARP_2.exe
+C:\Users\1\Desktop\DZ_SHARP_BASE\DZ_sharp\DZ_SHARP_2\obj\Debug\DZ_SHARP_2.pdb
